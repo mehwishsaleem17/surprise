@@ -45,7 +45,7 @@ document.getElementById("letterNext").onclick=function(){
 window.location.href="reasons.html";
 
 };
-window.scrollTo(0, document.body.scrollHeight);
+window.scrollBy(0, 500);
 
 
 /* Floating Hearts */
