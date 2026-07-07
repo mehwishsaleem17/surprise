@@ -48,6 +48,7 @@ result.innerHTML="😂 Nice Try! But today you're still the birthday star! ❤�
 next.style.display="inline-block";
 
 });
+window.scrollTo(0, document.body.scrollHeight);
 
 next.onclick=function(){
 
