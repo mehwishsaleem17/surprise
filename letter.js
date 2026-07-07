@@ -74,3 +74,5 @@ heart.remove();
 },9000);
 
 },500);
+
+window.scrollTo(0, document.body.scrollHeight);
