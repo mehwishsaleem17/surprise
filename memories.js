@@ -27,3 +27,4 @@ memories.forEach(memory=>{
 observer.observe(memory);
 
 });
+window.scrollTo(0, document.body.scrollHeight);
