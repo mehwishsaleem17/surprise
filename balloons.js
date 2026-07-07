@@ -44,3 +44,5 @@ document.getElementById("balloonNext").onclick=function(){
 window.location.href="cake.html";
 
 }
+
+window.scrollTo(0, document.body.scrollHeight);
