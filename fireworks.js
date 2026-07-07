@@ -85,3 +85,5 @@ document.getElementById("fireNext").onclick=function(){
 window.location.href="surprise.html";
 
 }
+
+window.scrollTo(0, document.body.scrollHeight);
