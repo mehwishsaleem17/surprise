@@ -38,3 +38,5 @@ document.getElementById("galleryNext").onclick=function(){
 window.location.href="letter.html";
 
 }
+
+window.scrollTo(0, document.body.scrollHeight);
