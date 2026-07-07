@@ -45,7 +45,7 @@ document.getElementById("letterNext").onclick=function(){
 window.location.href="reasons.html";
 
 };
-
+window.scrollTo(0, document.body.scrollHeight);
 
 
 /* Floating Hearts */
@@ -74,5 +74,3 @@ heart.remove();
 },9000);
 
 },500);
-
-window.scrollTo(0, document.body.scrollHeight);
