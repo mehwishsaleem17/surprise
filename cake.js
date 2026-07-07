@@ -19,3 +19,5 @@ document.getElementById("cakeNext").onclick=function(){
 window.location.href="gift.html";
 
 };
+
+window.scrollTo(0, document.body.scrollHeight);
