@@ -32,6 +32,11 @@ function typeWriter(){
 
         index++;
 
+ window.scrollTo({
+            top: document.body.scrollHeight,
+            behavior: "smooth"
+        });
+        
         setTimeout(typeWriter,40);
 
     }
