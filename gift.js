@@ -19,3 +19,5 @@ document.getElementById("giftNext").onclick=function(){
 window.location.href="fireworks.html";
 
 }
+
+window.scrollTo(0, document.body.scrollHeight);
