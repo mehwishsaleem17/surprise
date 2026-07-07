@@ -31,3 +31,4 @@ heart.remove();
 },10000);
 
 },300);
+window.scrollTo(0, document.body.scrollHeight);
